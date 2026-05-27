@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helperuetch",
+        "uuid": 10215542,
+        "checksum": "pin8m"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
